@@ -16,6 +16,7 @@ message Inventory{
   string name = 2;
   int32 num = 3;
 }
+
 // 定义信息体
 // => 相当于 go 中的 type Inventory2 struct{}
 message Inventory2{
