@@ -14,7 +14,7 @@ message Inventory{
   // => 相当于go中 结构体的内容
   int32 id = 1;
   string name = 2;
-  int32 num = 3;
+  int32 num = 4;
 }
 
 // 定义信息体
